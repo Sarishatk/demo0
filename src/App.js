@@ -34,8 +34,8 @@ console.log(e.target.value);
 <div >
   <input  onChange={(e)=>getName(e)} style={style} type='text' placeholder='enter user name' />
 </div>
-<h3>child components</h3>
-<h3> functional component:<Example  subject={subject}/></h3>
+<h3>child componentss</h3>
+<h3> functional componennt:<Example  subject={subject}/></h3>
 <h3> class component:<Status /><User Username ={Username} age="27"/></h3>
 
 
